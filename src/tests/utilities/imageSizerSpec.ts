@@ -1,4 +1,3 @@
-import { isReadable } from 'stream';
 import resizer from '../../utilities/imageSizer';
 
 describe('resizer utilitiy testing', () => {

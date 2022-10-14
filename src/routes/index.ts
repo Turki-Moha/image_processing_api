@@ -1,4 +1,4 @@
-import express, { response, Router } from 'express';
+import express from 'express';
 import imageRouter from './api/imageRouter';
 
 const router = express.Router();

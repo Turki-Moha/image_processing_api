@@ -1,4 +1,4 @@
-import express, { query } from 'express';
+import express from 'express';
 import { promises as fs } from 'fs';
 
 //checking if the file parameters inserted is true
